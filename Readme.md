@@ -16,3 +16,8 @@ PC端运行 server.py 默认端口 8090。
 可以自定义按钮，比如打开自定义打开应用程序。
 
 后面有空再精致一点吧=。=
+
+## 演示
+
+https://github.com/user-attachments/assets/d972206a-d0d4-4876-a252-01361e2ffa15
+
